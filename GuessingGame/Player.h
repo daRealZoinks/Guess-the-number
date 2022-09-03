@@ -1,14 +1,13 @@
+#pragma once
+
 #include <iostream>
 #include <string>
 
-using namespace std;
-
-#pragma once
 class Player
 {
 public:
 	Player();
 	int ReadInput();
-	string name;
+	std::string name;
 	int guess;
 };
