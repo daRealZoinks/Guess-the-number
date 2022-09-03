@@ -1,7 +1,6 @@
-/.vs
-/GuessingGame.sln
-/x64
-/GuessingGame/GuessingGame.vcxproj
-/GuessingGame/GuessingGame.vcxproj.filters
-/GuessingGame/GuessingGame.vcxproj.user
-/GuessingGame/x64
+.vs/
+*.sln
+x64/
+*.vcxproj
+*filters
+*.user
